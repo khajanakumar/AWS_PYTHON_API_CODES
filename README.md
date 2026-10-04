@@ -66,7 +66,7 @@ Before running the examples, make sure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/khajanakumar/AWS_PYTHON_API-Sample-Code-Templates.git
+git clone https://github.com/khajanakumar/AWS_PYTHON_API_CODES.git
 ```
 
 Navigate to the project directory:
